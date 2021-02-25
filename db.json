@@ -110,5 +110,9 @@
     ],
     "profile": {
         "name": "typicode"
+    },
+    "login": {
+        "login": "thomas",
+        "senha": "123",
     }
 }
